@@ -1,0 +1,22 @@
+CineMax is SingleScreen Movie Theater , user can buy online tickets 
+it has 100 seat in a screen. 
+in a day there are 3 shows are running. 
+
+every shows has 3 category of tickets 
+Diamond : - 30
+Gold    : - 30 
+Silver  : - 40
+
+Rate Are fix -> D:300 , G:200 , S:100 
+
+User can book their tickets via their name and mobile number 
+
+once user book ticket you need to print their
+user can book any category with maximum 6 qty overall
+
+design : class , variable , method , menu , etc....
+
+--------------------------------------------------------------
+ 
+
+
