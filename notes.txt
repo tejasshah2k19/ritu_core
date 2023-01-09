@@ -18,5 +18,34 @@ design : class , variable , method , menu , etc....
 
 --------------------------------------------------------------
  
+mumbai	
+	A.java 
+	package mumbai; 
+	
+	A : add() sub() mul() div() 
+	B extends A -> bObj -> use  [ inheritance ]
+	C objA -> use  				[ create object ] 
+delhi
+	D extends A -> objD 
+	E objA -> use 
+
+
+
+							private		  default	 	protected 	public 
+	sameclass	 A			  Y  			Y	 		  Y			  Y
+	samepackage 
+	subclass	 B
+	samepackage
+	nonsubclass  C
+	diff pacakge
+	subclass 	 D
+	diff package
+	non subclass E
+
+
+
+
+
+
 
 

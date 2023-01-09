@@ -1,0 +1,29 @@
+abstract -- hide 
+
+method - logic 
+
+abstract method -> without body 
+
+method having only declaration 
+
+using abstract keyword we can create abstract method 
+
+if u have an abstract method in your class then u must have to mark your class
+as abstract class 
+and u can not create instance of abstract class 
+
+
+can we create non abstract method in abstract class ? 
+yes we can 
+
+then how we call that non abstract method of an abstract class ? 
+
+
+we dont have abstract constructor but we can create constructor in abstract class 
+
+can we have abstract variable? 
+no 
+
+class extends class 
+class implements interface 
+interface extends interface 
