@@ -1,6 +1,6 @@
 package inheritance;
 
-public class DefaultValue {
+public  class DefaultValue {
 	byte b;
 	short s;
 	char c;

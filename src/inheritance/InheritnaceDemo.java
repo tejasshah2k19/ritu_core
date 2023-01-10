@@ -1,10 +1,13 @@
 package inheritance;
 
+import java.util.Scanner;
+
 public class InheritnaceDemo {
 
 	public static void main(String[] args) {
 		Banta b = new Banta();
 		b.play();
+		Scanner scr = null;
 	}
 }
 
