@@ -43,6 +43,58 @@ delhi
 	non subclass E
 
 
+------------------------------------------------------------
+
+access modifier :- 
+
+abstract : class , method 
+static : method , variable 
+final : 
+	class  - can not inherited  [ using object  ]
+	variable  - constant - can not modify 
+	method  - can not override 
+	
+strictfp :- IEEE 754
+	586586/985651 => 12.12232333333339  => 12.1223233334  
+				  => 12.12232333333	    => 12.1223233333
+				  
+	->method  
+	->class 				  
+----------------------------------------------
+
+encapsulation => class: variable + method				  
+
+----------------------------------------------
+
+is a 
+has a 
+
+
+
+class Car{
+	int gear;
+}
+
+class Mercedez extends Car{
+	int powerAdapter; 
+}
+
+*) car has a gear 
+*) Mercedez has a gear 
+*) Mereced has powerAdapter 
+*) Merecedez is a Car
+----------------------------------------------
+
+Polymorphism :-	
+	more than 1 form 
+		1) overloading 
+		2) overriding 
+		
+polymorphic object 
+	Parent p = new Child();
+	//object ref => parent === instance -> child 
+	
+	
 
 
 
