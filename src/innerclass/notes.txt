@@ -1,0 +1,46 @@
+inner class --> 
+
+
+1) class inside class - inner class 
+2) class inside method - method local inner class
+3) static class inside class - nested class 
+4) Anno Inner class 
+ 
+ 
+ 
+inner class 
+		class A{
+			a,b,c,d
+			class B {
+			
+			}
+		}
+
+nested class 
+		class A{
+		
+			a,b,c,d
+			static class B{
+			
+			}
+		}
+method local inner class
+	class A{
+			a,b,c,d 
+		void add(){
+			class A{
+				void seeOuter(){
+					
+				}		
+			}
+		}
+	}
+
+		
+class : Outer 
+	class : Inner 
+	
+	create 4 types of property default, private ,public,protected 
+	now create 1 method seeOuter() in Inner class and check what variable can access or not. 
+	
+	
